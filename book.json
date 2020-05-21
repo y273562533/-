@@ -1,9 +1,0 @@
-{
-    "plugins": [
-      "splitter",
-      "-lunr", 
-      "-search", 
-      "search-plus"
-    ]
-
-}
