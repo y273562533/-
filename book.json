@@ -3,7 +3,14 @@
       "splitter",
       "-lunr", 
       "-search", 
-      "search-plus"
-    ]
+      "search-plus",
+      "insert-logo"
+    ],
+    "pluginsConfig": {
+    "insert-logo": {
+      "url": "https://s1.ax1x.com/2020/05/21/YHO5Wt.png",
+      "style": "background: none; max-height: 100px; min-height: 50px"
+    }
+  }
 
 }
