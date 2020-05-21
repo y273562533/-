@@ -1,4 +1,5 @@
 {
+    "language" : "zh-hans",
     "plugins": [
       "splitter",
       "-lunr", 
