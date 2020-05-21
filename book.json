@@ -5,13 +5,30 @@
       "-lunr", 
       "-search", 
       "search-plus",
-      "insert-logo"
+      "insert-logo",
+      "tbfed-pagefooter",
+      "page-treeview",
+      "simple-page-toc"
     ],
     "pluginsConfig": {
     "insert-logo": {
-      "url": "https://s1.ax1x.com/2020/05/21/YHO5Wt.png",
-      "style": "background: none; max-height: 100px; min-height: 50px"
-    }
+      "url": "https://s1.ax1x.com/2020/05/21/YbtbT0.png",
+      "style": "background: none; max-height: 70px; min-height: 50px"
+    },
+    "tbfed-pagefooter": {
+            "copyright":"roborobo.cn",
+            "modify_label": "该文件修订时间：2020年5月21日",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+    "page-treeview": {
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        },
+    "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        }    
   }
 
 }
