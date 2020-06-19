@@ -5,6 +5,7 @@
       "-lunr", 
       "-search", 
       "search-plus",
+      "-sharing",
       "insert-logo",
       "tbfed-pagefooter",
       "page-treeview",
