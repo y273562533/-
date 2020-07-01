@@ -9,7 +9,8 @@
       "insert-logo",
       "tbfed-pagefooter",
       "page-treeview",
-      "simple-page-toc"
+      "simple-page-toc",
+      "expandable-chapters"
     ],
     "pluginsConfig": {
     "insert-logo": {
