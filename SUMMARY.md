@@ -8,7 +8,16 @@
 -----
 * 课程中心介绍
     * [课程组织规则](part5/课程组织规则.md)
-    * [课程介绍](part5/课程介绍.md)
+    * 课程介绍
+       * [ScratchJr课程介绍](part5/Scratch Jr课程介绍.md)
+       * [UARO课程介绍](part5/UARO课程介绍.md)
+       * [积木课程介绍](part5/积木课程介绍.md)
+       * [编程故事课程介绍](part5/编程故事课程介绍.md)
+       * [线上Scratch课程介绍](part5/线上Scratch课程介绍.md)
+       * [单片机课程介绍_v1.0](part5/单片机课程介绍_v1.0.md)
+       * [Python线上课课程介绍](part5/Python线上课课程介绍.md)
+       * [Python线下课课程介绍](part5/Python线下课课程介绍.md)
+       * [人工智能启蒙课程介绍](part5/人工智能启蒙课程介绍.md)
 
 -----
 * 教学系统使用说明
